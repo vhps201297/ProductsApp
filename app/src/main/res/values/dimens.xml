@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_width_card">344dp</dimen>
+    <dimen name="dimen_height_card">390dp</dimen>
+    <dimen name="dimen_half_card">192dp</dimen>
+</resources>
